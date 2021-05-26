@@ -18,7 +18,223 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the capabilities of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-object-ungroup">
+    </i>
+    Object Model
+   </header>
+   <ul>
+    <li>
+     Page
+    </li>
+    <li>
+     PageSeries
+    </li>
+    <li>
+     Title
+    </li>
+    <li>
+     Image
+    </li>
+    <li>
+     Rich Text
+    </li>
+    <li>
+     Section
+    </li>
+    <li>
+     Outline
+    </li>
+    <li>
+     OutlineGroup
+    </li>
+    <li>
+     OutlineElement
+    </li>
+    <li>
+     Document
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    General
+   </header>
+   <ul>
+    <li>
+     Render Complete File
+    </li>
+    <li>
+     Render Specific Part of File
+    </li>
+    <li>
+     Extract Text &amp; Images
+    </li>
+    <li>
+     Access Positioning Information
+    </li>
+    <li>
+     Access Formatting Information
+    </li>
+    <li>
+     Add &amp; Modify Text
+    </li>
+    <li>
+     Insert Image
+    </li>
+    <li>
+     Add &amp; Modify Graphical Elements
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java OneNote API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <header>
+   Aspose.Note
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Note for Java supports the JDK 1.7 and above." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="OneNote APIs Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <header>
+   Aspose.Note
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/note/java/supported-file-formats/)  including OneNote native and raster image formats are listed below." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft OneNote:
+     </b>
+     ONE
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     ONETOC2
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     GIF, JPEG, PNG, BMP, TIFF, GIF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <header>
+   Aspose.Note
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

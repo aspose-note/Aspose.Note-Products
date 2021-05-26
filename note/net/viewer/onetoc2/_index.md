@@ -75,6 +75,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View ONETOC2" sectionDescription="Check our live demos to [View ONETOC2](https://products.aspose.app/note/viewer/onetoc2) with following benefits." >}}
@@ -90,6 +92,9 @@ Those who have worked with Microsoft OneNote application may have noticed the pr
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
