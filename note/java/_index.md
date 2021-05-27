@@ -2,6 +2,7 @@
 title: OneNote Java API | Create Convert and Manipulate OneNote Files 
 weight: 20
 url: /java/ 
+description: Java library to read manipulate and convert Microsoft Office OneNote documents to PDF BMP JPG GIF and TIFF image formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

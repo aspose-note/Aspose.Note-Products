@@ -2,6 +2,7 @@
 title: .NET and Java OneNote API | OneNote Document Processing 
 weight: 10
 url: /family
+description: Read create manipulate save Microsoft Office OneNote files using relevant library on any platform. Export .one documents to PDF BMP PNG JPEG GIF formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,6 +2,7 @@
 title: C# .NET OneNote Manipulation API - Aspose 
 weight: 30
 url: /net/ 
+description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft OneNote files in .NET Windows web applications or services. Create and export .one files to PDF BMP PNG JPEG GIF
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
