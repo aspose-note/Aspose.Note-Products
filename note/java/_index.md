@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-java.png" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-java.png" pfName="Aspose.Note for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/note/java/" instalationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>The OneNote API is easy to use, saves time, and developers can create robust solutions with less code. On top of it, it is a standalone component that does not require any other tools or software to work with OneNote files.</p>
+<p>
+ Aspose.Note for Java is a feature-rich OneNote API that enables the Java applications to dynamically interact with OneNote documents without requiring any other software. API empowers the developers to create, read, manipulate and export the contents of the Microsoft OneNote file format. The API also allows managing attachments, text, hyperlinks, tables, tags and text styles.
+</p>
+
+<p>
+ The OneNote API is easy to use, saves time, and developers can create robust solutions with less code. On top of it, it is a standalone component that does not require any other tools or software to work with OneNote files.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -411,12 +418,6 @@ onedct.print();</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -442,9 +443,9 @@ onedct.print();</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note/java" pricingInformationLink="https://purchase.aspose.com/pricing/note/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/note/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" sdkName="Aspose.Note for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/note/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

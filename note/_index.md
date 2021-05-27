@@ -22,15 +22,22 @@ Seamless integration into your Java apps enables to load Microsoft OneNote docum
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="Aspose.Note Cross Platform Apps Include" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Note " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/note/conversion" >}}
+Instant conversion from Microsoft OneNote format to fixed-layout, web & raster image formats. Converts ONE to PDF, HTML, JPG, PNG, BMP, & TIFF.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Note " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/note/viewer" >}}
+View your Microsoft OneNote document in image format while on the go. Just drop and Upload ONE file and view it without installing any software.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/note/family" innerText="View All Cross Platform Apps" >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
 

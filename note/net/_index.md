@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-net.png" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-net.png" pfName="Aspose.Note for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/note/net/" instalationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.</p>
+<p>
+ Aspose.Note for .NET is a standalone OneNote document manipulation API. Applications can easily provide functionality such as read, convert, create, edit and manipulate Microsoft OneNote files as well as manipulate the elements of OneNote books and then export to different formats.
+</p>
+
+<p>
+ Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -435,12 +442,6 @@ ofile.Print();</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -466,9 +467,9 @@ ofile.Print();</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note/net" pricingInformationLink="https://purchase.aspose.com/pricing/note/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/note/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" sdkName="Aspose.Note for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/note/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
