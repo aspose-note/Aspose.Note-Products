@@ -1,6 +1,6 @@
 ---
 title: View ONETOC2 File Formats via .NET 
-weight: 40
+weight: 20
 url: /net/viewer/onetoc2/ 
 description: Try our On-Premise APIs to load, render and display ONETOC2 documents on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display ONETOC2 documen
 
 {{% blocks/products/pf/agp/content h2="How to View ONETOC2 File Using C#" %}}
 
- In order to view ONETOC2 file, weвЂ™ll use
+ In order to view ONETOC2 file, we’ll use
  [Aspose.Note for .NET](https://products.aspose.com/note/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.note) 
@@ -96,7 +96,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Note for .NET API" %}}
 
- Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats. вЂЋ
+ Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats. ‎
 
 
 

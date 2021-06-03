@@ -1,6 +1,6 @@
 ---
 title: View ONE File Formats via .NET 
-weight: 50
+weight: 40
 url: /net/viewer/one/ 
 description: Try our On-Premise APIs to load, render and display ONE documents on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display ONE documents o
 
 {{% blocks/products/pf/agp/content h2="How to View ONE File Using C#" %}}
 
- In order to view ONE file, weвЂ™ll use
+ In order to view ONE file, we’ll use
  [Aspose.Note for .NET](https://products.aspose.com/note/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.note) 
@@ -96,7 +96,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Note for .NET API" %}}
 
- Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats. вЂЋ
+ Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats. ‎
 
 
 
