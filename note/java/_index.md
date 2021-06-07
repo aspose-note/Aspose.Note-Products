@@ -6,11 +6,11 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-java.png" pfName="Aspose.Note for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-java.png" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/note/java/" instalationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/pricing/note/java" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note" directDownloadLink="https://downloads.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -6,11 +6,11 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-net.png" pfName="Aspose.Note for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-net.png" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/note/net/" instalationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com/pricing/note/net" docsLink="https://docs.aspose.com/note/net/" installationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
