@@ -10,7 +10,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/pricing/note/java" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note" directDownloadLink="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/pricing/note/java" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note" directDownloadLink="https://downloads.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -106,7 +106,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OneNote API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <img alt="Java OneNote API" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -149,7 +149,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OneNote APIs Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <img alt="OneNote APIs Java" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -227,7 +227,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png"/>
+  <img alt="Java APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -446,7 +446,7 @@ onedct.print();</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/note/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/note/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

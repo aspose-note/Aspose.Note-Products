@@ -6,16 +6,16 @@ description: Read create manipulate save Microsoft Office OneNote files using re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Manipulation APIs" h2="Native .NET & Java APIs to create, edit and convert Microsoft OneNote documents." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note.png" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Manipulation APIs" h2="Native .NET & Java APIs to create, edit and convert Microsoft OneNote documents." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Note for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-net.png" productLink="/note/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Note for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" productLink="/note/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Note for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/272x272/aspose_note-for-java.png" productLink="/note/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Note for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" productLink="/note/java/" >}}
 Native Java APIs for desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
