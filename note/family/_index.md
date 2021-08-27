@@ -43,6 +43,6 @@ Native Java APIs for desktop, web or any kind of application based on Java SE or
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
