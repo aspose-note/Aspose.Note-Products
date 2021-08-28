@@ -6,7 +6,7 @@ description: On Premise APIs to create, process & convert Microsoft OneNote file
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Format Solution" h2="Process, view or convert Microsoft OneNote files via On Premise APIs or prebuilt Cross-Platform apps." logoImageSrc="https://www.aspose.com/templates/brand/images/note/aspose_note-brand.png" imageAlt="Aspose.Note Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Format Solution" h2="Process, view or convert Microsoft OneNote files via On Premise APIs or prebuilt Cross-Platform apps." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-brand.svg" imageAlt="Aspose.Note Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note On Premise APIs Include" >}}
