@@ -6,7 +6,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-net.png" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-net.svg" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for .NET" >}}
 

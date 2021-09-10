@@ -6,7 +6,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/note/header/aspose_note-for-java.png" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-java.svg" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
