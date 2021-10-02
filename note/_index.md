@@ -2,7 +2,7 @@
 title: On Premise, Cloud APIs & Apps for Processing OneNote Files 
 weight: 50
 url: /
-description: On Premise APIs to create, process & convert Microsoft OneNote files via your applications. Or simply use our cross-platform apps to view or convert ONE files.
+description: On Premise APIs to create process & convert Microsoft OneNote files via your applications. Or simply use our cross-platform apps to view or convert ONE files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
