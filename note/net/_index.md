@@ -13,13 +13,9 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/net/" installationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Note for .NET is a standalone OneNote document manipulation API. Applications can easily provide functionality such as read, convert, create, edit and manipulate Microsoft OneNote files as well as manipulate the elements of OneNote books and then export to different formats.
-</p>
+<p>Aspose.Note for .NET is a standalone OneNote document manipulation API. Applications can easily provide functionality such as read, convert, create, edit and manipulate Microsoft OneNote files as well as manipulate the elements of OneNote books and then export to different formats.</p>
 
-<p>
- Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.
-</p>
+<p>Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
