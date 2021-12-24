@@ -15,7 +15,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Note for .NET is a standalone OneNote document manipulation API. Applications can easily provide functionality such as read, convert, create, edit and manipulate Microsoft OneNote files as well as manipulate the elements of OneNote books and then export to different formats.</p>
 
-<p>Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.</p>
+<p>Using API of Aspose.Note developers can load documents, render text and images from OneNote file to multiple formats, navigate through the document object model, extract text from any part of a file and a lot more.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -310,7 +310,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
     <em class="fa fa-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and modify information about any page of a document
+     Read and modify information about any page of a document
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate with hyperlinks in text and image elements
+     Manipulate with hyperlinks in text and image elements
     </p>
    </div>
    <div class="col-lg-12">
@@ -401,7 +401,7 @@ odoc.Save(dir + "output.tiff", Aspose.Note.SaveFormat.Tiff);</code></pre>
      Manipulate OneNote Objects
     </h2>
     <p>
-     Aspose.Note for .NET allows to access and read the properties of various objects like documents, pages, text, and image elements through its Object Model. Furthermore, the library enables users to access the OneNote book image properties, including file name, width, height, file extension, last modified date, etc.
+     Aspose.Note for .NET allows to access and read the properties of various objects like documents, pages, text, and image elements through its Object Model. Furthermore, the library enables users to access the OneNote book image properties, including file name, width, height, file extension, last modified date, etc.
     </p>
    </div>
    <div class="col-lg-12">

@@ -14,11 +14,11 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Note for Java is a feature-rich OneNote API that enables the Java applications to dynamically interact with OneNote documents without requiring any other software. API empowers the developers to create, read, manipulate and export the contents of the Microsoft OneNote file format. The API also allows managing attachments, text, hyperlinks, tables, tags and text styles.
+ Aspose.Note for Java is a feature-rich OneNote API that enables the Java applications to dynamically interact with OneNote documents without requiring any other software. API empowers the developers to create, read, manipulate and export the contents of the Microsoft OneNote file format. The API also allows managing attachments, text, hyperlinks, tables, tags and text styles.
 </p>
 
 <p>
- The OneNote API is easy to use, saves time, and developers can create robust solutions with less code. On top of it, it is a standalone component that does not require any other tools or software to work with OneNote files.
+ The OneNote API is easy to use, saves time, and developers can create robust solutions with less code. On top of it, it is a standalone component that does not require any other tools or software to work with OneNote files.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -255,7 +255,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java OneNote Library Features
+    Advanced Java OneNote Library Features
    </h2>
    <p>
    </p>
@@ -301,9 +301,9 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
      Extract text from the table of document
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-image  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Extract images from OneNote files</p>
+<p class="col-lg-10">Extract images from OneNote files</p>
 
 </div>-->
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
      Provision to set locales
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-font  ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-font  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Default font for Note documents</p>
 
@@ -336,7 +336,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add support for images hyperlinks during PDF conversion
+     Add support for images hyperlinks during PDF conversion
     </p>
    </div>
    <div class="col-lg-4">

@@ -96,7 +96,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Note for .NET API" %}}
 
- Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats. ‎
+ Aspose.Note API handles Microsoft OneNote file formats without Microsoft OneNote dependencies. One can easily load, create, modify and convert Microsoft OneNote files. Moreover, one can manipulate the elements of OneNote books, render text and images from OneNote file to different formats.  
 
 
 
