@@ -102,7 +102,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET OneNote API" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
+  <img width="70" height="75" alt=".NET OneNote API" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -154,7 +154,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OneNote API C#" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
+  <img width="70" height="75" alt="OneNote API C#" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -232,7 +232,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
+  <img width="70" height="75" alt=".NET APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg"/>
   <header>
    Aspose.Note
   </header>

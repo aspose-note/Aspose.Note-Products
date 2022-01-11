@@ -106,7 +106,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java OneNote API" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
+  <img width="70" height="75" alt="Java OneNote API" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -149,7 +149,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="OneNote APIs Java" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
+  <img width="70" height="75" alt="OneNote APIs Java" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
@@ -227,7 +227,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
+  <img width="70" height="75" alt="Java APIs to Manipulate OneNote Files" src="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg"/>
   <header>
    Aspose.Note
   </header>
