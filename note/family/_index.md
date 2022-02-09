@@ -9,7 +9,7 @@ description: Read create manipulate save Microsoft Office OneNote files using re
 {{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Manipulation APIs" h2="Native .NET & Java APIs to create, edit and convert Microsoft OneNote documents." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Note On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Note High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Note for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" productLink="/note/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
