@@ -383,17 +383,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
      <h3>
       Save the document in different formats - C#
      </h3>
-     <pre><code class="cs">// load the file to be converted
-
-var odoc = new Aspose.Note.Document(dir + "template.one");
-
-// save in different formats
-
-odoc.Save(dir + "output.pdf", Aspose.Note.SaveFormat.Pdf);
-
-odoc.Save(dir + "output.jpg", Aspose.Note.SaveFormat.Jpeg);
-
-odoc.Save(dir + "output.tiff", Aspose.Note.SaveFormat.Tiff);</code></pre>
+     {{< gist "aspose-com-gists" "1788c07710a98fd1bf9c1794a36ab8fe" "save-document-in-different-formats.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -415,13 +405,7 @@ odoc.Save(dir + "output.tiff", Aspose.Note.SaveFormat.Tiff);</code></pre>
      <h3>
       Print OneNote document to default printer - C#
      </h3>
-     <pre><code class="cs">// load the file to be printed
-
-var ofile = new Aspose.Note.Document(dir + "template.one");
-
-// print to default printer
-
-ofile.Print();</code></pre>
+     {{< gist "aspose-com-gists" "f1c4460425d3a75dd63cd514a9833946" "Examples-CSharp-PrintingDocument-PrintDocument-PrintDocument.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">

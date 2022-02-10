@@ -364,17 +364,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
      <h3>
       Save file in various formats - Java
      </h3>
-     <pre><code class="java">// load the file for conversion
-
-Document onedct= new Document(dir + "template.one");
-
-// Convert ONE to PDF, JPEG and TIFF
-
-onedct.save(dir + "output.pdf", SaveFormat.Pdf);
-
-onedct.save(dir + "output.jpg", SaveFormat.Jpeg);
-
-onedct.save(dir + "output.tiff", SaveFormat.Tiff);</code></pre>
+     {{< gist "aspose-com-gists" "71c1ceeafd68ca630fec7a36ca74f6d5" "convert-onenote-to-multiple-formats.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -396,13 +386,7 @@ onedct.save(dir + "output.tiff", SaveFormat.Tiff);</code></pre>
      <h3>
       Print file to default printer - Java
      </h3>
-     <pre><code class="java">// load the document for printing
-
-Document onedct = new Document(dir + "template.one");
-
-// print to default printer
-
-onedct.print();</code></pre>
+      {{< gist "aspose-com-gists" "952261680cb5075c778c0ae67a69bd14" "Examples-src-main-java-com-aspose-note-examples-printingdocuments-PrintDocuments-PrintDocument.java" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">
