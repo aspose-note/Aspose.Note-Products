@@ -59,13 +59,7 @@ PM> Install-Package Aspose.NOTE
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows ONETOC2 to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the ONETOC2 in an object of Document 
-var document = new Aspose.Note.Document("template.onetoc2");
-// save ONETOC2 as BMP 
-document.Save("output.bmp", Aspose.Note.SaveFormat.Bmp); 
-
-```
+{{< gist "aspose-com-gists" "1788c07710a98fd1bf9c1794a36ab8fe" "convert-onetoc2-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -59,13 +59,7 @@ PM> Install-Package Aspose.NOTE
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows ONE to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the ONE in an object of Document 
-var document = new Aspose.Note.Document("template.one");
-// save ONE as BMP 
-document.Save("output.bmp", Aspose.Note.SaveFormat.Bmp); 
-
-```
+{{< gist "aspose-com-gists" "1788c07710a98fd1bf9c1794a36ab8fe" "convert-one-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
