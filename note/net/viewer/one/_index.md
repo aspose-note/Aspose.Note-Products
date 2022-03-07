@@ -65,25 +65,7 @@ PM> Install-Package Aspose.Note
 
 {{% blocks/products/pf/agp/code-block title="C# code to view ONE" offSpacer="" %}}
 
-```cs
-
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
-// load the OneNote ONE file
-var document = new Aspose.Note.Document("template.one");
-// create HtmlSaveOptions and set export options
-var options = new Aspose.Note.Saving.HtmlSaveOptions()
-{
-    ExportCss = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded,
-    ExportFonts = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded,
-    ExportImages = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded
-};
-// save OneNote ONE in HTML format
-document.Save(output, options);
-
-// load resultant HTML in default browser
-System.Diagnostics.Process.Start(output);
-
-```
+{{< gist "aspose-com-gists" "c23c5cedea017e3b938a51d095395d0c" "view-onenote-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

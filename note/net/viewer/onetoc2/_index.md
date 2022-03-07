@@ -65,25 +65,7 @@ PM> Install-Package Aspose.Note
 
 {{% blocks/products/pf/agp/code-block title="C# code to view ONETOC2" offSpacer="" %}}
 
-```cs
-
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
-// load the OneNote ONETOC2 file
-var document = new Aspose.Note.Document("template.onetoc2");
-// create HtmlSaveOptions and set export options
-var options = new Aspose.Note.Saving.HtmlSaveOptions()
-{
-    ExportCss = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded,
-    ExportFonts = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded,
-    ExportImages = Aspose.Note.Saving.Html.ResourceExportType.ExportEmbedded
-};
-// save OneNote ONETOC2 in HTML format
-document.Save(output, options);
-
-// load resultant HTML in default browser
-System.Diagnostics.Process.Start(output);
-
-```
+{{< gist "aspose-com-gists" "c23c5cedea017e3b938a51d095395d0c" "view-onetoc2-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
