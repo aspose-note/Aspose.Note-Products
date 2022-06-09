@@ -49,15 +49,15 @@ otherformats: TIFF GIF JPEG PNG PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/one-to-gif/" name="ONE प्रति GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hi/net/conversion/one-to-gif/" name="ONE प्रति GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/one-to-jpeg/" name="ONE प्रति JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hi/net/conversion/one-to-jpeg/" name="ONE प्रति JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/one-to-png/" name="ONE प्रति PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hi/net/conversion/one-to-png/" name="ONE प्रति PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/one-to-tiff/" name="ONE प्रति TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hi/net/conversion/one-to-tiff/" name="ONE प्रति TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hi/net/conversion/one-to-pdf/" name="ONE प्रति PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hi/net/conversion/one-to-pdf/" name="ONE प्रति PDF" description="" >}}
 
 
 

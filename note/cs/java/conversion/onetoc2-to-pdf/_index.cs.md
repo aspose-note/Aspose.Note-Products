@@ -49,15 +49,15 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/onetoc2-to-gif/" name="ONETOC2 Na GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/onetoc2-to-gif/" name="ONETOC2 Na GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Na JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Na JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/onetoc2-to-png/" name="ONETOC2 Na PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/onetoc2-to-png/" name="ONETOC2 Na PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Na TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Na TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Na PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Na PDF" description="" >}}
 
 
 

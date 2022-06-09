@@ -49,15 +49,15 @@ otherformats: TIFF GIF JPEG PNG PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/one-to-gif/" name="ONE ถึง GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/one-to-gif/" name="ONE ถึง GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/one-to-jpeg/" name="ONE ถึง JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/one-to-jpeg/" name="ONE ถึง JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/one-to-png/" name="ONE ถึง PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/one-to-png/" name="ONE ถึง PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/one-to-tiff/" name="ONE ถึง TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/one-to-tiff/" name="ONE ถึง TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/one-to-pdf/" name="ONE ถึง PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/one-to-pdf/" name="ONE ถึง PDF" description="" >}}
 
 
 

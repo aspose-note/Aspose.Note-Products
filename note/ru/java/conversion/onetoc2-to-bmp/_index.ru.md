@@ -49,15 +49,15 @@ otherformats: GIF JPEG PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/onetoc2-to-gif/" name="ONETOC2 К GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ru/net/conversion/onetoc2-to-gif/" name="ONETOC2 К GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 К JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ru/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 К JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/onetoc2-to-png/" name="ONETOC2 К PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ru/net/conversion/onetoc2-to-png/" name="ONETOC2 К PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/onetoc2-to-tiff/" name="ONETOC2 К TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ru/net/conversion/onetoc2-to-tiff/" name="ONETOC2 К TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ru/net/conversion/onetoc2-to-pdf/" name="ONETOC2 К PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ru/net/conversion/onetoc2-to-pdf/" name="ONETOC2 К PDF" description="" >}}
 
 
 

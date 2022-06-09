@@ -51,15 +51,15 @@ otherformats: GIF JPEG PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/one-to-gif/" name="ONE إلى GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ar/net/conversion/one-to-gif/" name="ONE إلى GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/one-to-jpeg/" name="ONE إلى JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ar/net/conversion/one-to-jpeg/" name="ONE إلى JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/one-to-png/" name="ONE إلى PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ar/net/conversion/one-to-png/" name="ONE إلى PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/one-to-tiff/" name="ONE إلى TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ar/net/conversion/one-to-tiff/" name="ONE إلى TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ar/net/conversion/one-to-pdf/" name="ONE إلى PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ar/net/conversion/one-to-pdf/" name="ONE إلى PDF" description="" >}}
 
 
 

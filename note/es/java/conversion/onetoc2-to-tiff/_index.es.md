@@ -49,15 +49,15 @@ Como alternativa, puede obtener un archivo ZIP de [descargas](https://downloads.
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversionetoc2s admitidas" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/onetoc2-to-gif/" name="ONETOC2 A GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/es/net/conversion/onetoc2-to-gif/" name="ONETOC2 A GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 A JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/es/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 A JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/onetoc2-to-png/" name="ONETOC2 A PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/es/net/conversion/onetoc2-to-png/" name="ONETOC2 A PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/onetoc2-to-tiff/" name="ONETOC2 A TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/es/net/conversion/onetoc2-to-tiff/" name="ONETOC2 A TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/es/net/conversion/onetoc2-to-pdf/" name="ONETOC2 A PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/es/net/conversion/onetoc2-to-pdf/" name="ONETOC2 A PDF" description="" >}}
 
 
 

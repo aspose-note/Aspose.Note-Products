@@ -51,15 +51,15 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/note/java) adresi
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Dönüşümler" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/one-to-gif/" name="ONE İle GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/one-to-gif/" name="ONE İle GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/one-to-jpeg/" name="ONE İle JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/one-to-jpeg/" name="ONE İle JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/one-to-png/" name="ONE İle PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/one-to-png/" name="ONE İle PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/one-to-tiff/" name="ONE İle TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/one-to-tiff/" name="ONE İle TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/one-to-pdf/" name="ONE İle PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/one-to-pdf/" name="ONE İle PDF" description="" >}}
 
 
 

@@ -49,15 +49,15 @@ Alternatív megoldásként beszerezhet egy ZIP-fájlt a [downloads] webhelyről 
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/onetoc2-to-gif/" name="ONETOC2 Nak nek GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hu/net/conversion/onetoc2-to-gif/" name="ONETOC2 Nak nek GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Nak nek JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hu/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Nak nek JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/onetoc2-to-png/" name="ONETOC2 Nak nek PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hu/net/conversion/onetoc2-to-png/" name="ONETOC2 Nak nek PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Nak nek TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hu/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Nak nek TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/hu/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Nak nek PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/hu/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Nak nek PDF" description="" >}}
 
 
 

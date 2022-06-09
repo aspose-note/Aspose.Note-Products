@@ -49,15 +49,15 @@ Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/onetoc2-to-gif/" name="ONETOC2 Till GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/sv/net/conversion/onetoc2-to-gif/" name="ONETOC2 Till GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Till JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/sv/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Till JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/onetoc2-to-png/" name="ONETOC2 Till PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/sv/net/conversion/onetoc2-to-png/" name="ONETOC2 Till PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Till TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/sv/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Till TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/sv/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Till PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/sv/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Till PDF" description="" >}}
 
 
 

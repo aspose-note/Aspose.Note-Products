@@ -49,15 +49,15 @@ otherformats: TIFF GIF JPEG PNG PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-TW/net/conversion/one-to-gif/" name="ONE 至 GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh-TW/net/conversion/one-to-gif/" name="ONE 至 GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-TW/net/conversion/one-to-jpeg/" name="ONE 至 JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh-TW/net/conversion/one-to-jpeg/" name="ONE 至 JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-TW/net/conversion/one-to-png/" name="ONE 至 PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh-TW/net/conversion/one-to-png/" name="ONE 至 PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-TW/net/conversion/one-to-tiff/" name="ONE 至 TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh-TW/net/conversion/one-to-tiff/" name="ONE 至 TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh-TW/net/conversion/one-to-pdf/" name="ONE 至 PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh-TW/net/conversion/one-to-pdf/" name="ONE 至 PDF" description="" >}}
 
 
 

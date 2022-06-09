@@ -49,15 +49,15 @@ otherformats: TIFF GIF JPEG PNG PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/one-to-gif/" name="ONE に GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ja/net/conversion/one-to-gif/" name="ONE に GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/one-to-jpeg/" name="ONE に JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ja/net/conversion/one-to-jpeg/" name="ONE に JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/one-to-png/" name="ONE に PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ja/net/conversion/one-to-png/" name="ONE に PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/one-to-tiff/" name="ONE に TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ja/net/conversion/one-to-tiff/" name="ONE に TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ja/net/conversion/one-to-pdf/" name="ONE に PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ja/net/conversion/one-to-pdf/" name="ONE に PDF" description="" >}}
 
 
 

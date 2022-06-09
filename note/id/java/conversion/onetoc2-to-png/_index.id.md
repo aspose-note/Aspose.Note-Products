@@ -49,15 +49,15 @@ Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.c
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/onetoc2-to-gif/" name="ONETOC2 Ke GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/id/net/conversion/onetoc2-to-gif/" name="ONETOC2 Ke GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Ke JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/id/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Ke JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/onetoc2-to-png/" name="ONETOC2 Ke PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/id/net/conversion/onetoc2-to-png/" name="ONETOC2 Ke PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Ke TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/id/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Ke TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/id/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Ke PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/id/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Ke PDF" description="" >}}
 
 
 

@@ -49,15 +49,15 @@ otherformats: JPEG GIF PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/one-to-gif/" name="ONE 에게 GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/one-to-gif/" name="ONE 에게 GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/one-to-jpeg/" name="ONE 에게 JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/one-to-jpeg/" name="ONE 에게 JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/one-to-png/" name="ONE 에게 PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/one-to-png/" name="ONE 에게 PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/one-to-tiff/" name="ONE 에게 TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/one-to-tiff/" name="ONE 에게 TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/one-to-pdf/" name="ONE 에게 PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/one-to-pdf/" name="ONE 에게 PDF" description="" >}}
 
 
 

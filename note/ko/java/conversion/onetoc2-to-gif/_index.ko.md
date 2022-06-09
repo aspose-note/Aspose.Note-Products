@@ -49,15 +49,15 @@ otherformats: GIF JPEG PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/onetoc2-to-gif/" name="ONETOC2 에게 GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/onetoc2-to-gif/" name="ONETOC2 에게 GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 에게 JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 에게 JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/onetoc2-to-png/" name="ONETOC2 에게 PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/onetoc2-to-png/" name="ONETOC2 에게 PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/onetoc2-to-tiff/" name="ONETOC2 에게 TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/onetoc2-to-tiff/" name="ONETOC2 에게 TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/ko/net/conversion/onetoc2-to-pdf/" name="ONETOC2 에게 PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/ko/net/conversion/onetoc2-to-pdf/" name="ONETOC2 에게 PDF" description="" >}}
 
 
 

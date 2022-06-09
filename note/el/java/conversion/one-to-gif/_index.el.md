@@ -49,15 +49,15 @@ otherformats: GIF JPEG PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/one-to-gif/" name="ONE Προς την GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/one-to-gif/" name="ONE Προς την GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/one-to-jpeg/" name="ONE Προς την JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/one-to-jpeg/" name="ONE Προς την JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/one-to-png/" name="ONE Προς την PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/one-to-png/" name="ONE Προς την PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/one-to-tiff/" name="ONE Προς την TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/one-to-tiff/" name="ONE Προς την TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/one-to-pdf/" name="ONE Προς την PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/one-to-pdf/" name="ONE Προς την PDF" description="" >}}
 
 
 

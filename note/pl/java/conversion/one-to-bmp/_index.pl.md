@@ -51,15 +51,15 @@ Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://downloads.a
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/one-to-gif/" name="ONE Do GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/pl/net/conversion/one-to-gif/" name="ONE Do GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/one-to-jpeg/" name="ONE Do JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/pl/net/conversion/one-to-jpeg/" name="ONE Do JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/one-to-png/" name="ONE Do PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/pl/net/conversion/one-to-png/" name="ONE Do PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/one-to-tiff/" name="ONE Do TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/pl/net/conversion/one-to-tiff/" name="ONE Do TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/pl/net/conversion/one-to-pdf/" name="ONE Do PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/pl/net/conversion/one-to-pdf/" name="ONE Do PDF" description="" >}}
 
 
 

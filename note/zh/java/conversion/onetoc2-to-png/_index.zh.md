@@ -49,15 +49,15 @@ otherformats: PNG GIF JPEG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/onetoc2-to-gif/" name="ONETOC2 至 GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh/net/conversion/onetoc2-to-gif/" name="ONETOC2 至 GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 至 JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 至 JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/onetoc2-to-png/" name="ONETOC2 至 PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh/net/conversion/onetoc2-to-png/" name="ONETOC2 至 PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/onetoc2-to-tiff/" name="ONETOC2 至 TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh/net/conversion/onetoc2-to-tiff/" name="ONETOC2 至 TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/zh/net/conversion/onetoc2-to-pdf/" name="ONETOC2 至 PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/zh/net/conversion/onetoc2-to-pdf/" name="ONETOC2 至 PDF" description="" >}}
 
 
 

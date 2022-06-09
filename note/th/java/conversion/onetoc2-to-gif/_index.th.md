@@ -49,15 +49,15 @@ otherformats: GIF JPEG PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/onetoc2-to-gif/" name="ONETOC2 ถึง GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/onetoc2-to-gif/" name="ONETOC2 ถึง GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 ถึง JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 ถึง JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/onetoc2-to-png/" name="ONETOC2 ถึง PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/onetoc2-to-png/" name="ONETOC2 ถึง PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/onetoc2-to-tiff/" name="ONETOC2 ถึง TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/onetoc2-to-tiff/" name="ONETOC2 ถึง TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/th/net/conversion/onetoc2-to-pdf/" name="ONETOC2 ถึง PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/th/net/conversion/onetoc2-to-pdf/" name="ONETOC2 ถึง PDF" description="" >}}
 
 
 

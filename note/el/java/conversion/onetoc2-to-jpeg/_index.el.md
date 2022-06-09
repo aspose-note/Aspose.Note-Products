@@ -49,15 +49,15 @@ otherformats: JPEG GIF PNG TIFF PDF
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/onetoc2-to-gif/" name="ONETOC2 Προς την GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/onetoc2-to-gif/" name="ONETOC2 Προς την GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Προς την JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 Προς την JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/onetoc2-to-png/" name="ONETOC2 Προς την PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/onetoc2-to-png/" name="ONETOC2 Προς την PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Προς την TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/onetoc2-to-tiff/" name="ONETOC2 Προς την TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/el/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Προς την PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/el/net/conversion/onetoc2-to-pdf/" name="ONETOC2 Προς την PDF" description="" >}}
 
 
 

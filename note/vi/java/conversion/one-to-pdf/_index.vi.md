@@ -49,15 +49,15 @@ Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://download
 
 {{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/one-to-gif/" name="ONE Đến GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/vi/net/conversion/one-to-gif/" name="ONE Đến GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/one-to-jpeg/" name="ONE Đến JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/vi/net/conversion/one-to-jpeg/" name="ONE Đến JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/one-to-png/" name="ONE Đến PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/vi/net/conversion/one-to-png/" name="ONE Đến PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/one-to-tiff/" name="ONE Đến TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/vi/net/conversion/one-to-tiff/" name="ONE Đến TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/vi/net/conversion/one-to-pdf/" name="ONE Đến PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/vi/net/conversion/one-to-pdf/" name="ONE Đến PDF" description="" >}}
 
 
 

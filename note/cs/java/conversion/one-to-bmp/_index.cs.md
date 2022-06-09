@@ -51,15 +51,15 @@ Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.c
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/one-to-gif/" name="ONE Na GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/one-to-gif/" name="ONE Na GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/one-to-jpeg/" name="ONE Na JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/one-to-jpeg/" name="ONE Na JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/one-to-png/" name="ONE Na PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/one-to-png/" name="ONE Na PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/one-to-tiff/" name="ONE Na TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/one-to-tiff/" name="ONE Na TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/cs/net/conversion/one-to-pdf/" name="ONE Na PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/cs/net/conversion/one-to-pdf/" name="ONE Na PDF" description="" >}}
 
 
 

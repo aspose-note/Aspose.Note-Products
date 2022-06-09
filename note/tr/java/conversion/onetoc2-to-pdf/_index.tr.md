@@ -49,15 +49,15 @@ Alternatif olarak, [indirilenler](https://downloads.aspose.com/note/java) adresi
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Dönüşümler" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/onetoc2-to-gif/" name="ONETOC2 İle GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/onetoc2-to-gif/" name="ONETOC2 İle GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 İle JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/onetoc2-to-jpeg/" name="ONETOC2 İle JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/onetoc2-to-png/" name="ONETOC2 İle PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/onetoc2-to-png/" name="ONETOC2 İle PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/onetoc2-to-tiff/" name="ONETOC2 İle TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/onetoc2-to-tiff/" name="ONETOC2 İle TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/tr/net/conversion/onetoc2-to-pdf/" name="ONETOC2 İle PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/tr/net/conversion/onetoc2-to-pdf/" name="ONETOC2 İle PDF" description="" >}}
 
 
 

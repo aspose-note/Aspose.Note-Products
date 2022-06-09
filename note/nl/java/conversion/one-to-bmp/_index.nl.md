@@ -51,15 +51,15 @@ U kunt ook een ZIP-bestand krijgen van [downloads](https://downloads.aspose.com/
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/net/conversion/one-to-gif/" name="ONE Tot GIF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/nl/net/conversion/one-to-gif/" name="ONE Tot GIF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/net/conversion/one-to-jpeg/" name="ONE Tot JPEG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/nl/net/conversion/one-to-jpeg/" name="ONE Tot JPEG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/net/conversion/one-to-png/" name="ONE Tot PNG" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/nl/net/conversion/one-to-png/" name="ONE Tot PNG" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/net/conversion/one-to-tiff/" name="ONE Tot TIFF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/nl/net/conversion/one-to-tiff/" name="ONE Tot TIFF" description="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/total/nl/net/conversion/one-to-pdf/" name="ONE Tot PDF" description="" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/note/nl/net/conversion/one-to-pdf/" name="ONE Tot PDF" description="" >}}
 
 
 
