@@ -46,7 +46,7 @@ PM> Install-Package Aspose.NOTE
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或兼容 .NET Framework、.NET Core 和 PHP、VBScript、Delphi、C++（通過 COM 互操作）的操作系統。
+- Microsoft Windows 或兼容 .NET Framework、.NET Core 和 PHP、VBScript、Delphi、C++（通過 COM 互操作)的操作系統。
 - Microsoft Visual Studio 等開發環境。
 - 項目中引用的 .NET DLL 的 Aspose.NOTE。
 

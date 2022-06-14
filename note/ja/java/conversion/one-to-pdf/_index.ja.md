@@ -13,7 +13,7 @@ otherformats: PDF GIF JPEG PNG TIFF
 {{< blocks/products/pf/i18n/feature-page-header h1="Javaを介してONEをPDFに変換する" h2="OneNote <sup>＆reg; </ sup> ONEをJavaベースのアプリケーション内で、他のソフトウェアに依存せずにPDFイメージにエクスポートします。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Note for Java]（https://products.aspose.com/note/java/）は、Microsoft OneNoteファイルをPDF、JPG、PNG、PDF、およびTIFF画像形式に処理、表示、または変換するためのAPIです。これはスタンドアロンでユーザーフレンドリーで高速なアプリケーションAPIであり、追加のソフトウェアは必要ありません。高性能変換を備えた.oneおよび.onenote拡張子をサポートします。
+[Aspose.Note for Java](https://products.aspose.com/note/java/)は、Microsoft OneNoteファイルをPDF、JPG、PNG、PDF、およびTIFF画像形式に処理、表示、または変換するためのAPIです。これはスタンドアロンでユーザーフレンドリーで高速なアプリケーションAPIであり、追加のソフトウェアは必要ありません。高性能変換を備えた.oneおよび.onenote拡張子をサポートします。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ otherformats: PDF GIF JPEG PNG TIFF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note）ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note)ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード]（https://downloads.aspose.com/note/java）からZIPファイルを取得することもできます。
+または、[ダウンロード](https://downloads.aspose.com/note/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="このサンプルコードは、Javaを介してONEをPDFイメージに変換する方法を示しています" offSpacer="" %}}

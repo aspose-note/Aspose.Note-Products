@@ -13,7 +13,7 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{< blocks/products/pf/i18n/feature-page-header h1="Javaを介してONETOC2をBMPに変換する" h2="Onetoc2Note <sup>＆reg; </ sup> ONETOC2をJavaベースのアプリケーション内で、他のソフトウェアに依存せずにBMPイメージにエクスポートします。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Note for Java]（https://products.aspose.com/note/java/）は、Microsoft Onetoc2NoteファイルをPDF、JPG、PNG、BMP、およびTIFF画像形式に処理、表示、または変換するためのAPIです。これはスタンドアロンでユーザーフレンドリーで高速なアプリケーションAPIであり、追加のソフトウェアは必要ありません。高性能変換を備えた.onetoc2および.onetoc2note拡張子をサポートします。
+[Aspose.Note for Java](https://products.aspose.com/note/java/)は、Microsoft Onetoc2NoteファイルをPDF、JPG、PNG、BMP、およびTIFF画像形式に処理、表示、または変換するためのAPIです。これはスタンドアロンでユーザーフレンドリーで高速なアプリケーションAPIであり、追加のソフトウェアは必要ありません。高性能変換を備えた.onetoc2および.onetoc2note拡張子をサポートします。
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note）ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
+[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note)ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード]（https://downloads.aspose.com/note/java）からZIPファイルを取得することもできます。
+または、[ダウンロード](https://downloads.aspose.com/note/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="このサンプルコードは、Javaを介してONETOC2をBMPイメージに変換する方法を示しています" offSpacer="" %}}
