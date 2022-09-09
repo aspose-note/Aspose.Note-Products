@@ -25,9 +25,9 @@ otherformats: JPEG GIF PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Anda dapat dengan mudah menggunakan Aspose.Note untuk Java langsung dari proyek berbasis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) dan sertakan perpustakaan di pom.xml Anda.
+Anda dapat dengan mudah menggunakan Aspose.Note untuk Java langsung dari proyek berbasis [Aspose Maven Repository](https://repository.aspose.com/note/) dan sertakan perpustakaan di pom.xml Anda.
 
-Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/note/java).
+Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Kode contoh ini menunjukkan cara mengonversi gambar SATU ke JPEG melalui Java" offSpacer="" %}}

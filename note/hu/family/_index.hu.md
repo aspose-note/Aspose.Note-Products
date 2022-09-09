@@ -6,7 +6,7 @@ description: Olvassa el a Microsoft Office OneNote-fájlok létrehozásának kez
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote fájlkezelési API-k" h2="Natív .NET és Java API-k Microsoft OneNote dokumentumok létrehozásához, szerkesztéséhez és konvertálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote fájlkezelési API-k" h2="Natív .NET és Java API-k Microsoft OneNote dokumentumok létrehozásához, szerkesztéséhez és konvertálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Az Aspose.Note High Code API-k közé tartozik" >}}
@@ -43,6 +43,6 @@ Natív Java API-k asztali számítógéphez, webhez vagy bármilyen Java SE vagy
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

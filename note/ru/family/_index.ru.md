@@ -6,7 +6,7 @@ description: Чтение, создание и сохранение файлов
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API для работы с файлами Microsoft OneNote" h2="Собственные API-интерфейсы .NET и Java для создания, редактирования и преобразования документов Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API для работы с файлами Microsoft OneNote" h2="Собственные API-интерфейсы .NET и Java для создания, редактирования и преобразования документов Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note High Code API включает" >}}
@@ -43,6 +43,6 @@ description: Чтение, создание и сохранение файлов
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

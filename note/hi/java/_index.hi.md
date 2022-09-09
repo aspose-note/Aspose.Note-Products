@@ -6,11 +6,11 @@ description: माइक्रोसॉफ्ट ऑफिस वनोट द�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="जावा माइक्रोसॉफ्ट वनोट मैनिपुलेशन एपीआई" h2="किसी भी Microsoft OneNote निर्भरता के बिना Microsoft OneNote फ़ाइलें बनाएँ, पढ़ें, संपादित करें, कनवर्ट करें और हेरफेर करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-java.svg" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="जावा माइक्रोसॉफ्ट वनोट मैनिपुलेशन एपीआई" h2="किसी भी Microsoft OneNote निर्भरता के बिना Microsoft OneNote फ़ाइलें बनाएँ, पढ़ें, संपादित करें, कनवर्ट करें और हेरफेर करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-java.svg" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note" directDownloadLink="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/note/" directDownloadLink="https://releases.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -426,7 +426,7 @@ description: माइक्रोसॉफ्ट ऑफिस वनोट द�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note/java" pricingInformationLink="https://purchase.aspose.com/pricing/note/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note/java" pricingInformationLink="https://purchase.aspose.com/pricing/note/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए व्यक्तिगत OneNote API प्रदान करता है:" >}}
 

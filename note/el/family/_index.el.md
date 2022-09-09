@@ -6,7 +6,7 @@ description: Διαβάστε τη δημιουργία χειρισμού απ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API χειρισμού αρχείων Microsoft OneNote" h2="Native .NET & Java API για δημιουργία, επεξεργασία και μετατροπή εγγράφων Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API χειρισμού αρχείων Microsoft OneNote" h2="Native .NET & Java API για δημιουργία, επεξεργασία και μετατροπή εγγράφων Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note High Code APIs Include" >}}
@@ -43,6 +43,6 @@ Native Java API για επιτραπέζιους υπολογιστές, web ή
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

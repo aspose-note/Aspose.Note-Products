@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note)ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
+[Aspose Maven Repository](https://repository.aspose.com/note/)ベースのプロジェクトから直接Aspose.NoteforJavaを簡単に使用できますそして、pom.xmlにライブラリを含めます。
 
-または、[ダウンロード](https://downloads.aspose.com/note/java)からZIPファイルを取得することもできます。
+または、[ダウンロード](https://releases.aspose.com/note/java)からZIPファイルを取得することもできます。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="このサンプルコードは、Javaを介してONEをGIFイメージに変換する方法を示しています" offSpacer="" %}}

@@ -6,7 +6,7 @@ description: Baca buat, manipulasi, simpan file Microsoft Office OneNote menggun
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Manipulasi File Microsoft OneNote" h2="API .NET & Java asli untuk membuat, mengedit, dan mengonversi dokumen Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Manipulasi File Microsoft OneNote" h2="API .NET & Java asli untuk membuat, mengedit, dan mengonversi dokumen Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Catatan API Kode Tinggi Termasuk" >}}
@@ -43,6 +43,6 @@ Native Java API untuk desktop, web, atau segala jenis aplikasi berbasis Java SE 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,7 +6,7 @@ description: 任意のプラットフォームで関連するライブラリを�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="MicrosoftOneNoteファイル操作API" h2="Microsoft OneNoteドキュメントを作成、編集、変換するためのネイティブ.NETおよびJavaAPI。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="MicrosoftOneNoteファイル操作API" h2="Microsoft OneNoteドキュメントを作成、編集、変換するためのネイティブ.NETおよびJavaAPI。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.NoteハイコードAPIには次のものが含まれます" >}}
@@ -43,6 +43,6 @@ Windowsフォーム、ASP.NET、WPF、WCF、または.NETFramework2.0以降に�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

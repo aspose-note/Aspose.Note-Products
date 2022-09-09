@@ -25,9 +25,9 @@ otherformats: JPEG GIF PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
-Bạn có thể dễ dàng sử dụng Aspose.Note cho Java trực tiếp từ dự án dựa trên [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) và bao gồm các thư viện trong pom.xml của bạn.
+Bạn có thể dễ dàng sử dụng Aspose.Note cho Java trực tiếp từ dự án dựa trên [Aspose Maven Repository](https://repository.aspose.com/note/) và bao gồm các thư viện trong pom.xml của bạn.
 
-Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/note/java).
+Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã mẫu này cho thấy cách chuyển đổi hình ảnh ONETOC2 sang JPEG thông qua Java" offSpacer="" %}}

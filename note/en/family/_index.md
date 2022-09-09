@@ -6,7 +6,7 @@ description: Read create manipulate save Microsoft Office OneNote files using re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Manipulation APIs" h2="Native .NET & Java APIs to create, edit and convert Microsoft OneNote documents." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft OneNote File Manipulation APIs" h2="Native .NET & Java APIs to create, edit and convert Microsoft OneNote documents." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note High Code APIs Include" >}}
@@ -27,6 +27,7 @@ Native Java APIs for desktop, web or any kind of application based on Java SE or
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/note/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-note?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/note/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -43,6 +44,6 @@ Native Java APIs for desktop, web or any kind of application based on Java SE or
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

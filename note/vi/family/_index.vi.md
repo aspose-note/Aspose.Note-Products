@@ -6,7 +6,7 @@ description: Đọc tạo thao tác lưu các tệp Microsoft Office OneNote s�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp Microsoft OneNote" h2="Các API .NET & Java gốc để tạo, chỉnh sửa và chuyển đổi tài liệu Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API thao tác tệp Microsoft OneNote" h2="Các API .NET & Java gốc để tạo, chỉnh sửa và chuyển đổi tài liệu Microsoft OneNote." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm các API mã cao của Aspose.Note" >}}
@@ -43,6 +43,6 @@ Các API Java gốc dành cho máy tính để bàn, web hoặc bất kỳ loạ
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

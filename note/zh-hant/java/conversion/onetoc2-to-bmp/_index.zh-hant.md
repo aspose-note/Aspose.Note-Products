@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
-您可以直接從基於 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) 的項目輕鬆地使用 Aspose.Note for Java並在您的 pom.xml 中包含庫。
+您可以直接從基於 [Aspose Maven Repository](https://repository.aspose.com/note/) 的項目輕鬆地使用 Aspose.Note for Java並在您的 pom.xml 中包含庫。
 
-或者，您可以從 [下載](https://downloads.aspose.com/note/java) 獲取 ZIP 文件。
+或者，您可以從 [下載](https://releases.aspose.com/note/java) 獲取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="此示例代碼顯示如何通過 Java 將 ONETOC2 轉換為 BMP 圖像" offSpacer="" %}}

@@ -25,9 +25,9 @@ otherformats: TIFF GIF JPEG PNG PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversão" %}}
-Você pode facilmente usar o Aspose.Note para Java diretamente de um projeto baseado em [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) e inclua bibliotecas em seu pom.xml.
+Você pode facilmente usar o Aspose.Note para Java diretamente de um projeto baseado em [Aspose Maven Repository](https://repository.aspose.com/note/) e inclua bibliotecas em seu pom.xml.
 
-Como alternativa, você pode obter um arquivo ZIP em [downloads](https://downloads.aspose.com/note/java).
+Como alternativa, você pode obter um arquivo ZIP em [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este código de exemplo mostra como converter ONETOC2 para imagem TIFF via Java" offSpacer="" %}}

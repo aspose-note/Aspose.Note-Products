@@ -6,11 +6,11 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-net.svg" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/note/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET OneNote Documents Processing APIs" h2="Create, Manipulate and Convert OneNote files to multiple formats without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-net.svg" pfName="Aspose.Note" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/net/" installationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/note/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-net.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/net/" installationsDocsLink="https://docs.aspose.com/note/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Note/" nugetPackageName="Aspose.Note" mavenRepoLink="https://repository.aspose.com/note/" directDownloadLink="https://releases.aspose.com/note/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Note for .NET is a standalone OneNote document manipulation API. Applications can easily provide functionality such as read, convert, create, edit and manipulate Microsoft OneNote files as well as manipulate the elements of OneNote books and then export to different formats.</p>
@@ -429,6 +429,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/note/net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-note/Aspose.Note-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/note/net" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/note/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -446,7 +447,7 @@ description: C# VB.NET ASP.NET OneNote library to read write and edit Microsoft 
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note/net" pricingInformationLink="https://purchase.aspose.com/pricing/note/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/note/net" pricingInformationLink="https://purchase.aspose.com/pricing/note/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
 

@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymagania dotyczące konwersji" %}}
-Możesz łatwo używać Aspose.Note dla Javy bezpośrednio z projektu opartego na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) i dołącz biblioteki do swojego pom.xml.
+Możesz łatwo używać Aspose.Note dla Javy bezpośrednio z projektu opartego na [Aspose Maven Repository](https://repository.aspose.com/note/) i dołącz biblioteki do swojego pom.xml.
 
-Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/note/java).
+Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ten przykładowy kod pokazuje, jak przekonwertować obraz ONE do GIF za pomocą Java" offSpacer="" %}}

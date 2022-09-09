@@ -25,9 +25,9 @@ otherformats: JPEG GIF PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Vous pouvez facilement utiliser Aspose.Note pour Java directement à partir d'un projet basé sur [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) et incluez des bibliothèques dans votre pom.xml.
+Vous pouvez facilement utiliser Aspose.Note pour Java directement à partir d'un projet basé sur [Aspose Maven Repository](https://repository.aspose.com/note/) et incluez des bibliothèques dans votre pom.xml.
 
-Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/note/java).
+Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Cet exemple de code montre comment convertir ONE en image JPEG via Java" offSpacer="" %}}

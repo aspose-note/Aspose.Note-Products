@@ -25,9 +25,9 @@ otherformats: JPEG GIF PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकताएँ" %}}
-आप [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Note का उपयोग आसानी से कर सकते हैं और अपने pom.xml में पुस्तकालयों को शामिल करें।
+आप [Aspose Maven Repository](https://repository.aspose.com/note/) आधारित प्रोजेक्ट से सीधे Java के लिए Aspose.Note का उपयोग आसानी से कर सकते हैं और अपने pom.xml में पुस्तकालयों को शामिल करें।
 
-वैकल्पिक रूप से, आप [डाउनलोड](https://downloads.aspose.com/note/java) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
+वैकल्पिक रूप से, आप [डाउनलोड](https://releases.aspose.com/note/java) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="यह नमूना कोड दिखाता है कि जावा के माध्यम से एक को बीएमपी छवि में कैसे परिवर्तित किया जाए" offSpacer="" %}}

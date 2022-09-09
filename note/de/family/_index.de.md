@@ -6,7 +6,7 @@ description: Lesen, erstellen, manipulieren, speichern Sie Microsoft Office OneN
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote-APIs zur Dateibearbeitung" h2="Native .NET- und Java-APIs zum Erstellen, Bearbeiten und Konvertieren von Microsoft OneNote-Dokumenten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote-APIs zur Dateibearbeitung" h2="Native .NET- und Java-APIs zum Erstellen, Bearbeiten und Konvertieren von Microsoft OneNote-Dokumenten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note High-Code-APIs enthalten" >}}
@@ -43,6 +43,6 @@ Native Java-APIs für Desktop, Web oder jede Art von Anwendung basierend auf Jav
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,7 +6,7 @@ description: किसी भी प्लेटफ़ॉर्म पर प्
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="माइक्रोसॉफ्ट वनोट फ़ाइल मैनिपुलेशन एपीआई" h2="Microsoft OneNote दस्तावेज़ बनाने, संपादित करने और परिवर्तित करने के लिए मूल .NET और Java API।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="माइक्रोसॉफ्ट वनोट फ़ाइल मैनिपुलेशन एपीआई" h2="Microsoft OneNote दस्तावेज़ बनाने, संपादित करने और परिवर्तित करने के लिए मूल .NET और Java API।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note हाई कोड एपीआई शामिल करें" >}}
@@ -43,6 +43,6 @@ description: किसी भी प्लेटफ़ॉर्म पर प्
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

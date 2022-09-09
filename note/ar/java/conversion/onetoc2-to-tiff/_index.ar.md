@@ -25,9 +25,9 @@ otherformats: TIFF GIF JPEG PNG PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-يمكنك بسهولة استخدام Aspose.Note لجافا مباشرة من مشروع قائم على [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) وتضمين مكتبات في ملفك pom.xml.
+يمكنك بسهولة استخدام Aspose.Note لجافا مباشرة من مشروع قائم على [Aspose Maven Repository](https://repository.aspose.com/note/) وتضمين مكتبات في ملفك pom.xml.
 
-بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://downloads.aspose.com/note/java).
+بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية هذا كيفية تحويل صورة واحدة إلى صورة TIFF عبر Java" offSpacer="" %}}

@@ -6,11 +6,11 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-java.svg" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Microsoft OneNote Manipulation APIs" h2="Create, Read, Edit, Convert and Manipulate Microsoft OneNote files without any Microsoft OneNote dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/headers/aspose_note-for-java.svg" pfName="Aspose.Note" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Note" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note" directDownloadLink="https://downloads.aspose.com/note/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note-for-java.svg" liveDemosLink="https://products.aspose.app/note/family" PricingLink="https://purchase.aspose.com/pricing/note/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/note/java/" installationsDocsLink="https://docs.aspose.com/note/java/installation/" nugetLink="" nugetPackageName="Microsoft OneNote:" mavenRepoLink="https://repository.aspose.com/note/" directDownloadLink="https://releases.aspose.com/note/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -409,6 +409,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/note/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-note/Aspose.Note-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/note" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/note/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -426,7 +427,7 @@ description: Java library to read manipulate and convert Microsoft Office OneNot
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/note/java" pricingInformationLink="https://purchase.aspose.com/pricing/note/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/note/java" pricingInformationLink="https://purchase.aspose.com/pricing/note/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Note " description="Aspose.Note offers individual OneNote APIs for other popular development environments as listed below:" >}}
 

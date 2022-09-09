@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Aspose.Note pro Javu můžete snadno používat přímo z projektu založeného na [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) a zahrňte knihovny do vašeho pom.xml.
+Aspose.Note pro Javu můžete snadno používat přímo z projektu založeného na [Aspose Maven Repository](https://repository.aspose.com/note/) a zahrňte knihovny do vašeho pom.xml.
 
-Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/note/java).
+Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tento ukázkový kód ukazuje, jak převést ONE na obrázek GIF pomocí Javy" offSpacer="" %}}

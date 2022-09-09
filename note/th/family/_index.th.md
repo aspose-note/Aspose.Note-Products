@@ -6,7 +6,7 @@ description: อ่านสร้างจัดการบันทึกไ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API การจัดการไฟล์ Microsoft OneNote" h2="Native .NET และ Java APIs เพื่อสร้าง แก้ไข และแปลงเอกสาร Microsoft OneNote" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API การจัดการไฟล์ Microsoft OneNote" h2="Native .NET และ Java APIs เพื่อสร้าง แก้ไข และแปลงเอกสาร Microsoft OneNote" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note High Code API รวมอยู่ด้วย" >}}
@@ -43,6 +43,6 @@ Native Java APIs สำหรับเดสก์ท็อป เว็บ ห�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

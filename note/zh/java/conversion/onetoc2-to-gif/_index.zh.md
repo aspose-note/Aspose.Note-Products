@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="转换要求" %}}
-您可以直接从基于 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) 的项目轻松地使用 Aspose.Note for Java并在您的 pom.xml 中包含库。
+您可以直接从基于 [Aspose Maven Repository](https://repository.aspose.com/note/) 的项目轻松地使用 Aspose.Note for Java并在您的 pom.xml 中包含库。
 
-或者，您可以从 [下载](https://downloads.aspose.com/note/java) 获取 ZIP 文件。
+或者，您可以从 [下载](https://releases.aspose.com/note/java) 获取 ZIP 文件。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="此示例代码显示如何通过 Java 将 ONETOC2 转换为 GIF 图像" offSpacer="" %}}

@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
-คุณสามารถใช้ Aspose.Note สำหรับ Java ได้โดยตรงจากโปรเจ็กต์บน [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ
+คุณสามารถใช้ Aspose.Note สำหรับ Java ได้โดยตรงจากโปรเจ็กต์บน [Aspose Maven Repository](https://repository.aspose.com/note/) และรวมไลบรารี่ไว้ใน pom.xml ของคุณ
 
-หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/note/java)
+หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/note/java)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงวิธีการแปลง ONETOC2 เป็นอิมเมจ GIF ผ่าน Java" offSpacer="" %}}

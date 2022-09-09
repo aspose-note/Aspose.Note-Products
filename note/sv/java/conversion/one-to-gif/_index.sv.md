@@ -25,9 +25,9 @@ otherformats: GIF JPEG PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverteringskrav" %}}
-Du kan enkelt använda Aspose.Note för Java direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note)-baserat projekt och inkludera bibliotek i din pom.xml.
+Du kan enkelt använda Aspose.Note för Java direkt från ett [Aspose Maven Repository](https://repository.aspose.com/note/)-baserat projekt och inkludera bibliotek i din pom.xml.
 
-Alternativt kan du få en ZIP-fil från [downloads](https://downloads.aspose.com/note/java).
+Alternativt kan du få en ZIP-fil från [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Denna exempelkod visar hur man konverterar EN till GIF-bild via Java" offSpacer="" %}}

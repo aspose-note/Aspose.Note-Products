@@ -6,7 +6,7 @@ description: 모든 플랫폼에서 관련 라이브러리를 사용하여 Micro
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote 파일 조작 API" h2="Microsoft OneNote 문서를 생성, 편집 및 변환하기 위한 기본 .NET 및 Java API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://downloads.aspose.com/note" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft OneNote 파일 조작 API" h2="Microsoft OneNote 문서를 생성, 편집 및 변환하기 위한 기본 .NET 및 Java API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/note/aspose_note.svg" pfName="Aspose.Note" downloadUrl="https://releases.aspose.com/note" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Note 하이 코드 API 포함" >}}
@@ -43,6 +43,6 @@ Windows Forms, ASP.NET, WPF, WCF 또는 .NET Framework 2.0 이상을 기반으�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/note" pricingInformationLink="https://purchase.aspose.com/pricing/note/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

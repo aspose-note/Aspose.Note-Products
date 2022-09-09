@@ -25,9 +25,9 @@ otherformats: PNG GIF JPEG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις μετατροπής" %}}
-Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Note για Java απευθείας από ένα έργο που βασίζεται στο [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.
+Μπορείτε εύκολα να χρησιμοποιήσετε το Aspose.Note για Java απευθείας από ένα έργο που βασίζεται στο [Aspose Maven Repository](https://repository.aspose.com/note/) και συμπεριλάβετε βιβλιοθήκες στο pom.xml σας.
 
-Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/note/java).
+Εναλλακτικά, μπορείτε να λάβετε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Αυτό το δείγμα κώδικα δείχνει πώς να μετατρέψετε το ONETOC2 σε εικόνα PNG μέσω Java" offSpacer="" %}}

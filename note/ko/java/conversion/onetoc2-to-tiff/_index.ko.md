@@ -25,9 +25,9 @@ otherformats: TIFF GIF JPEG PNG PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) 기반 프로젝트에서 직접 Java용 Aspose.Note를 쉽게 사용할 수 있습니다. pom.xml에 라이브러리를 포함합니다.
+[Aspose Maven Repository](https://repository.aspose.com/note/) 기반 프로젝트에서 직접 Java용 Aspose.Note를 쉽게 사용할 수 있습니다. pom.xml에 라이브러리를 포함합니다.
 
-또는 [다운로드](https://downloads.aspose.com/note/java)에서 ZIP 파일을 받을 수 있습니다.
+또는 [다운로드](https://releases.aspose.com/note/java)에서 ZIP 파일을 받을 수 있습니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="이 샘플 코드는 Java를 통해 ONETOC2을 TIFF 이미지로 변환하는 방법을 보여줍니다." offSpacer="" %}}

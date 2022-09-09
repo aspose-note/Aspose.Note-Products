@@ -27,9 +27,9 @@ otherformats: BMP GIF PNG TIFF PDF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Java OneNote API" %}}
-You can easily use Aspose.Note for Java directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-note) based project and include libraries in your pom.xml.
+You can easily use Aspose.Note for Java directly from a [Aspose Maven Repository](https://repository.aspose.com/note/) based project and include libraries in your pom.xml.
 
-Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/note/java).
+Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/note/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows how to convert ONETOC2 to JPEG image via Java" offSpacer="" %}}
